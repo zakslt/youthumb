@@ -5,6 +5,11 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+       <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+        <meta name="description" content="Unlock the Power of YouTube Thumbnails with Our Thumbnail Extractor Tool! 📸 Want to enhance your YouTube video marketing strategy? Our Thumbnail Extractor lets you effortlessly retrieve high-quality thumbnails from any YouTube video. Create eye-catching, click-worthy thumbnails for your own videos or gain inspiration from top creators. Boost your video's visibility and engagement with stunning visuals. Try our YouTube Thumbnail Extractor today and take your channel to the next level!">
+        <Head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9262230510365108"
           <link
             rel="apple-touch-icon"
             sizes="180x180"
