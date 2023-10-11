@@ -77,3 +77,66 @@ input[type="text"] + button {
 .thumbnail-option button:hover {
   background-color: #2680c5;
 }
+/* Style the text container */
+.text-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 20px 0;
+}
+
+/* Style the title */
+.text-container h1 {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Style the paragraph text */
+.text-container p {
+  font-size: 16px;
+  color: #666;
+  margin: 10px 0;
+}
+
+/* Style the list items */
+.text-container ol {
+  text-align: left;
+}
+
+.text-container li {
+  font-size: 16px;
+  color: #666;
+  margin: 5px 0;
+}
+
+/* Style the emoji and other decorative elements */
+.text-container .emoji {
+  font-size: 24px;
+  margin: 5px;
+  color: #ff9900; /* Custom color for the emoji */
+}
+
+/* Style the button */
+.text-container button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.text-container button:hover {
+  background-color: #2980b9; /* Darker shade on hover */
+}
+
+/* Add a slight box shadow to the text container on hover for depth */
+.text-container:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
