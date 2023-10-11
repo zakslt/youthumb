@@ -28,7 +28,7 @@ class MyDocument extends Document {
         </Head>
         <body>
               <p>
-              <h2> "Supercharge Your YouTube Channel with Our Thumbnail Downloader!"
+              <h2> "Supercharge Your YouTube Channel with Our Thumbnail Downloader!" </p>
 
 Description:
 🌟 Unlock the Power of Eye-Catching Thumbnails! 🌟
