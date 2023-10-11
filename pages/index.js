@@ -77,9 +77,8 @@ const Index = () => {
         </div>
       )}
     </div>
-<p>
-              <h2> "Supercharge Your YouTube Channel with Our Thumbnail Downloader!" </p>
-
+       <h2> "Supercharge Your YouTube Channel with Our Thumbnail Downloader!" </p>
+<p> 
 Description:
 🌟 Unlock the Power of Eye-Catching Thumbnails! 🌟
 
