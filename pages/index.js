@@ -34,7 +34,14 @@ const Index = () => {
   };
 
   return (
-     <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <style>
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 10px 0;
+    padding:15px;
+    }
+  </style>
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
